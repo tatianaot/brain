@@ -40,7 +40,7 @@
 
 - **Granola** — полные заметки встреч остаются там. В память идёт только выжимка: кому что обещано, какие решения приняты.
 - **Todoist** — единственное место быстрого захвата с телефона. Раз в сутки разбор дня забирает оттуда в память; обратно не пишем никогда.
-- **Почта** — пять ящиков пересылаются в `otbetkina.vault@gmail.com` и читаются коннектором. В память идёт разбор, а не письма. Ярлык в сборнике показывает источник: `tatiana@otbetkina.ru` → Личное, `tatyana.otbetkina@skillbox.ru` → SKB, `sleddogparty@gmail.com` → Авача, `t.otbetkina@8hats.ai` → Автор, `tatyana.otbetkina@im.systems` → KS.
+- **Почта** — шесть ящиков пересылаются в `otbetkina.vault@gmail.com` и читаются коннектором. В память идёт разбор, а не письма. Ярлык в сборнике показывает источник: `tatiana@otbetkina.ru` → Личное, `tatyana.otbetkina@skillbox.ru` → SKB, `sleddogparty@gmail.com` и `info@sleddog-russia.ru` → Авача, `t.otbetkina@8hats.ai` → Автор, `tatyana.otbetkina@im.systems` → KS. Содержательное по Аваче идёт на `info@sleddog-russia.ru`; на `sleddogparty` в основном рассылки сервисов.
 
 ## Правило родственных проектов
 
